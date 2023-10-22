@@ -18,12 +18,15 @@
 
 ## Conecte-se comigo  
 <div>
-<a href="https://github.com/lenilsonp40" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/lenilson-soares-/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://github.com/lenilsonp40" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://t.me/LenilsonSoares" target="_blank">
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegran style="margin-bottom: 5px;" />
+</a>
 
-### 💡  Lunguagens 
+### Estatísticas 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenilsonp40&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
