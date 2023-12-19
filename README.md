@@ -9,7 +9,7 @@
 
 - Moro em Brasília/DF, **Brasil**.
 - Sou Estagiário de desenvolvimento de software na Caixa Econômica Federal.
--  Atualmente estou me dedicando e aprendendo tudo relacionado à  **Linguagem C#**, **Plataforma .NET**, **Azure** ,**Angular**, **SQL Server** e **Docker**.
+-  Atualmente estou me dedicando e aprendendo tudo relacionado à  Linguagem C#, Plataforma .NET , Azure , Angular , SQL Server e Docker.
 -  Cursando Análise e Desenvolvimento de Sistemas e Autodidata.
 - Criando o hábito de colocar minhas soluções em artigos no [DevTo](https://dev.to/lenilsonp40). 
 
