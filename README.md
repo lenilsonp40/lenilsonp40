@@ -9,7 +9,7 @@
 
 - Moro em Brasília/DF, **Brasil**.
 - Sou Estagiário de desenvolvimento de software na Caixa Econômica Federal.
--  Minha pilha principal é .net C# com Angulare e SQL Server.
+-  Minha pilha principal é C# | .NET Core | ASP.NET com Angulare e SQL Server.
 -  Superior em Análise e Desenvolvimento de Sistemas e Autodidata.
 - Criando o hábito de colocar minhas soluções em artigos no [DevTo](https://dev.to/lenilsonp40). 
 
