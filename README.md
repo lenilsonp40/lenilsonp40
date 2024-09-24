@@ -8,7 +8,7 @@
 ### Um pouco sobre mim :
 
 - Moro em Brasília/DF, **Brasil**.
--  Minha pilha principal é C# | .NET Core | ASP.NET com Angular e SQL Server.
+-  Minha pilha principal é C# | .NET Core| ASP.NET| SQL Server| Azure| Angular.
 - Tenho 2 anos de experiência em desenvolvimento de sistemas.
 -  Superior em Análise e Desenvolvimento de Sistemas e Autodidata.
 - Criando o hábito de colocar minhas soluções em artigos no [DevTo](https://dev.to/lenilsonp40). 
@@ -20,7 +20,7 @@
 
 Se você quiser saber mais sobre minhas experiências e qualificações, você pode baixar meu currículo:
 
-<a href="https://drive.google.com/file/d/1Mo37zjO3g-f4D_F8_-ph4-JthxfcX1oj/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/13kDzklfcNAoQ1dDhTW219cmOK-xOf8bs/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Download%20CV-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Download CV">
 </a>
 
