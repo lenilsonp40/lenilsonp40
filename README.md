@@ -8,7 +8,7 @@
 ### Um pouco sobre mim :
 
 - Moro em Brasília/DF, **Brasil**.
--  Minha pilha principal é C# | .NET Core| ASP.NET| SQL Server| Azure| Angular.
+-  Minha pilha principal é Java | Spring | C# | .NET Core| ASP.NET| SQL Server| Azure| Angular.
 - Tenho 2 anos de experiência em desenvolvimento de sistemas.
 -  Superior em Análise e Desenvolvimento de Sistemas e Autodidata.
 - Criando o hábito de colocar minhas soluções em artigos no [DevTo](https://dev.to/lenilsonp40). 
