@@ -46,6 +46,7 @@ Se você quiser saber mais sobre minhas experiências e qualificações, você p
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegran style="margin-bottom: 5px;" />
 </a>
 
-### Estatísticas 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenilsonp40&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+
+ <!-- ### Estatísticas 
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenilsonp40&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA) -->
 
